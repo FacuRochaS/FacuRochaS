@@ -65,8 +65,8 @@ Backend • Frontend • Algorithms • Linux
 ## Backend
 
 ```txt
-Level 82
-🟩🟩🟩🟩🟩🟩🟩🟩⬛⬛
+Lines 58939
+🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩
 ```
 
 <p>
@@ -90,8 +90,8 @@ Layered Architecture
 ## Frontend
 
 ```txt
-Level 58
-🟩🟩🟩🟩🟩🟩⬛⬛⬛⬛
+Lines 23764
+🟩🟩🟩🟩🟩🟩🟩🟩🟩⬛
 ```
 
 <p>
@@ -114,8 +114,8 @@ Component-Based Architecture
 ## Databases
 
 ```txt
-Level 67
-🟩🟩🟩🟩🟩🟩🟩⬛⬛⬛
+Lines 233098
+🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩
 ```
 
 <p>
@@ -139,8 +139,8 @@ Database Design
 ## Deployment
 
 ```txt
-Level 41
-🟩🟩🟩🟩⬛⬛⬛⬛⬛⬛
+Lines 4016
+🟩🟩🟩⬛⬛⬛⬛⬛⬛⬛
 ```
 
 <p>
@@ -160,8 +160,8 @@ CI/CD Basics
 ## Algorithms
 
 ```txt
-Level 91
-🟩🟩🟩🟩🟩🟩🟩🟩🟩⬛
+Lines 2463
+🟩⬛⬛⬛⬛⬛⬛⬛⬛⬛
 ```
 
 <p>
@@ -181,7 +181,7 @@ Problem Solving
 ## Other
 
 ```txt
-Level 63
+Lines 16378
 🟩🟩🟩🟩🟩🟩⬛⬛⬛⬛
 ```
 
