@@ -73,7 +73,7 @@ Lines 58939
   <img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring" />
 </p>
 
-```txt
+
 C# • ASP.NET • Java
 Spring Boot • REST APIs
 Entity Framework • Microservices
@@ -81,7 +81,7 @@ Entity Framework • Microservices
 JUnit • Mockito • Testing
 Design Patterns • Clean Architecture
 Layered Architecture
-```
+
 
 </td>
 
@@ -98,14 +98,14 @@ Lines 23764
   <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css" />
 </p>
 
-```txt
+
 Angular • TypeScript
 JavaScript • HTML • CSS
 
 Responsive UI
 SPA Development
 Component-Based Architecture
-```
+
 
 </td>
 
@@ -122,11 +122,11 @@ Lines 233098
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
 </p>
 
-```txt
+
 SQL • PostgreSQL
 MongoDB • Redis
 Database Design
-```
+
 
 </td>
 
@@ -147,11 +147,11 @@ Lines 4016
   <img src="https://skillicons.dev/icons?i=docker,linux,git,github" />
 </p>
 
-```txt
+
 Docker • Linux
 Git • GitHub
 CI/CD Basics
-```
+
 
 </td>
 
@@ -168,11 +168,11 @@ Lines 2463
   <img src="https://skillicons.dev/icons?i=cpp" />
 </p>
 
-```txt
+
 Competitive Programming
 STL • Mathematics
 Problem Solving
-```
+
 
 </td>
 
@@ -189,11 +189,11 @@ Lines 16378
   <img src="https://skillicons.dev/icons?i=python,haskell,kivy" />
 </p>
 
-```txt
+
 Python • Haskell
 Kivy • Data Science
 Functional Programming
-```
+
 
 </td>
 
@@ -224,11 +224,14 @@ Functional Programming
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=FacuRochaS&theme=tokyo-night&hide_border=true&bg_color=00000000" />
 
+
+<div align="center">
+
+# Featured Projects
+
 </div>
 
 
-
-# Featured Projects
 
 <table align="center" style="margin:auto;">
 
