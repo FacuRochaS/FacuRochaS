@@ -1,16 +1,334 @@
-## Hi there 👋
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/light.png">
+  <img alt="GitHub Banner" src="./assets/dark.png">
+</picture>
 
-<!--
-**FacuRochaS/FacuRochaS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+<a href="https://github.com/FacuRochaS">
+  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://www.linkedin.com/in/facundo-rocha-seret-49aba5293/">
+  <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://codeforces.com/profile/FacuRocha">
+  <img src="https://img.shields.io/badge/Codeforces-111111?style=for-the-badge&logo=codeforces&logoColor=white">
+</a>
+
+<a href="https://www.skills.google/public_profiles/cf3d8aa2-b0ec-471e-9c1b-237aea4bc3a7">
+  <img src="https://img.shields.io/badge/Google%20Skills-111111?style=for-the-badge&logo=google&logoColor=white">
+</a>
+
+<a href="mailto:facurochaseret@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+</div>
+<div align="center">
+
+# Facundo Rocha Seret
+
+### Computer Science Student
+
+```txt
+Computer Science student at FaMAF - National University of Córdoba.
+Currently finishing a Programming Technician degree at UTN.
+Data Science & AI Diploma.
+Google SkillBoost badges in Cybersecurity, Generative AI and Cloud Data Analytics.
+
+Focused on backend development, algorithms, Linux and software engineering.
+```
+
+```txt
+22 years old | Córdoba, Argentina
+Backend • Frontend • Algorithms • Linux
+```
+
+</div>
+
+
+
+
+
+<div align="center">
+
+# Technologies
+
+<table align="center" style="margin:auto;">
+
+<tr>
+
+<td valign="top" width="33%" align="center">
+
+## Backend
+
+```txt
+Level 82
+🟩🟩🟩🟩🟩🟩🟩🟩⬛⬛
+```
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring" />
+</p>
+
+```txt
+C# • ASP.NET • Java
+Spring Boot • REST APIs
+Entity Framework • Microservices
+
+JUnit • Mockito • Testing
+Design Patterns • Clean Architecture
+Layered Architecture
+```
+
+</td>
+
+<td valign="top" width="33%" align="center">
+
+## Frontend
+
+```txt
+Level 58
+🟩🟩🟩🟩🟩🟩⬛⬛⬛⬛
+```
+
+<p>
+  <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css" />
+</p>
+
+```txt
+Angular • TypeScript
+JavaScript • HTML • CSS
+
+Responsive UI
+SPA Development
+Component-Based Architecture
+```
+
+</td>
+
+<td valign="top" width="33%" align="center">
+
+## Databases
+
+```txt
+Level 67
+🟩🟩🟩🟩🟩🟩🟩⬛⬛⬛
+```
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
+</p>
+
+```txt
+SQL • PostgreSQL
+MongoDB • Redis
+Database Design
+```
+
+</td>
+
+</tr>
+
+<tr>
+
+<td valign="top" width="33%" align="center">
+
+## Deployment
+
+```txt
+Level 41
+🟩🟩🟩🟩⬛⬛⬛⬛⬛⬛
+```
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,linux,git,github" />
+</p>
+
+```txt
+Docker • Linux
+Git • GitHub
+CI/CD Basics
+```
+
+</td>
+
+<td valign="top" width="33%" align="center">
+
+## Algorithms
+
+```txt
+Level 91
+🟩🟩🟩🟩🟩🟩🟩🟩🟩⬛
+```
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp" />
+</p>
+
+```txt
+Competitive Programming
+STL • Mathematics
+Problem Solving
+```
+
+</td>
+
+<td valign="top" width="33%" align="center">
+
+## Other
+
+```txt
+Level 63
+🟩🟩🟩🟩🟩🟩⬛⬛⬛⬛
+```
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,haskell,kivy" />
+</p>
+
+```txt
+Python • Haskell
+Kivy • Data Science
+Functional Programming
+```
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+
+
+
+<div align="center">
+
+# GitHub Activity
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=FacuRochaS&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FacuRochaS&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=FacuRochaS&theme=tokyo-night&hide_border=true&bg_color=00000000" />
+
+</div>
+
+
+
+# Featured Projects
+
+<table align="center" style="margin:auto;">
+
+<tr>
+
+<td width="33%" valign="top" align="center">
+
+## T.E.G
+
+```txt
+Cinema Management System
+```
+
+Backend-oriented web platform for
+movie scheduling, administration
+and function management.
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,js" />
+</p>
+
+```txt
+ASP.NET • Entity Framework
+REST APIs • SPA
+```
+
+<a href="https://github.com/FacuRochaS/Competitive-Programing">
+  <img src="https://img.shields.io/badge/View_Project-111111?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+
+<td width="33%" valign="top" align="center">
+
+##  Educational Platform
+
+```txt
+Collaborative Learning System
+```
+
+Reusable educational blocks with
+versioning, collaboration and
+community-driven content.
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres" />
+</p>
+
+```txt
+System Design • Backend
+Educational Technology
+```
+
+<a href="https://github.com/FacuRochaS/Competitive-Programing">
+  <img src="https://img.shields.io/badge/View_Project-111111?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+
+<td width="33%" valign="top" align="center">
+
+##  Competitive Programming
+
+```txt
+Algorithms & Problem Solving
+```
+
+Repository focused on data
+structures, mathematics and
+competitive programming.
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp" />
+</p>
+
+```txt
+STL • Graphs • DP
+Math • Problem Solving
+```
+
+<a href="https://github.com/FacuRochaS/Competitive-Programing">
+  <img src="https://img.shields.io/badge/View_Project-111111?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<div align="center">
+
+```txt
+Thanks for visiting my profile.
+
+Trying to improve continuously...
+(or at least not get worse).
+
+Feel free to follow or check out my projects.
+```
+
+</div>
