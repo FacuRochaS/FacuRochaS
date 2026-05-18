@@ -30,7 +30,6 @@
 <div align="center">
 
 
-### Computer Science Student
 
 ```txt
 Computer Science student at FaMAF - National University of Córdoba.
@@ -43,7 +42,7 @@ Focused on backend development, algorithms, Linux and software engineering.
 
 ```txt
 22 years old | Córdoba, Argentina
-Backend • Frontend • Algorithms • Linux
+Backend • Frontend • Algorithms • AI
 ```
 
 </div>
@@ -64,23 +63,22 @@ Backend • Frontend • Algorithms • Linux
 
 ## Backend
 
-```txt
-Lines 58939
-🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩
-```
+
 
 <p>
   <img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring" />
 </p>
 
 
-C# • ASP.NET • Java
-Spring Boot • REST APIs
-Entity Framework • Microservices
+• C#  ASP.NET Entity Framework 
+• Java Spring Boot 
+• REST APIs
+• Microservices
 
-JUnit • Mockito • Testing
-Design Patterns • Clean Architecture
-Layered Architecture
+• Testing JUnit Mockito 
+• Design Patterns 
+• Clean Architecture
+• Layered Architecture
 
 
 </td>
@@ -89,22 +87,22 @@ Layered Architecture
 
 ## Frontend
 
-```txt
-Lines 23764
-🟩🟩🟩🟩🟩🟩🟩🟩🟩⬛
-```
+
 
 <p>
   <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css" />
 </p>
 
 
-Angular • TypeScript
-JavaScript • HTML • CSS
+• Angular 
+• TypeScript
+• JavaScript 
+• HTML 
+• CSS
 
-Responsive UI
-SPA Development
-Component-Based Architecture
+• Responsive UI 
+• SPA Development 
+• Component-Based Architecture
 
 
 </td>
@@ -113,19 +111,17 @@ Component-Based Architecture
 
 ## Databases
 
-```txt
-Lines 233098
-🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩
-```
+
 
 <p>
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
 </p>
 
 
-SQL • PostgreSQL
-MongoDB • Redis
-Database Design
+• SQL PostgreSQL, MySql, SqlServer
+• MongoDB 
+• Redis 
+• Database Design
 
 
 </td>
@@ -138,19 +134,18 @@ Database Design
 
 ## Deployment
 
-```txt
-Lines 4016
-🟩🟩🟩⬛⬛⬛⬛⬛⬛⬛
-```
+
 
 <p>
   <img src="https://skillicons.dev/icons?i=docker,linux,git,github" />
 </p>
 
 
-Docker • Linux
-Git • GitHub
-CI/CD Basics
+• Docker 
+• Linux
+• Git 
+• GitHub
+• CI/CD Basics 
 
 
 </td>
@@ -159,19 +154,16 @@ CI/CD Basics
 
 ## Algorithms
 
-```txt
-Lines 2463
-🟩⬛⬛⬛⬛⬛⬛⬛⬛⬛
-```
+
 
 <p>
   <img src="https://skillicons.dev/icons?i=cpp" />
 </p>
 
 
-Competitive Programming
-STL • Mathematics
-Problem Solving
+• Competitive Programming
+• Mathematics 
+• Problem Solving
 
 
 </td>
@@ -180,19 +172,18 @@ Problem Solving
 
 ## Other
 
-```txt
-Lines 16378
-🟩🟩🟩🟩🟩🟩⬛⬛⬛⬛
-```
+
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,haskell,kivy" />
 </p>
 
 
-Python • Haskell
-Kivy • Data Science
-Functional Programming
+• Python 
+• Haskell 
+• Data Science 
+• Functional Programming 
+• Games
 
 
 </td>
