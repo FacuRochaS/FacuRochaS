@@ -132,7 +132,7 @@ Backend • Frontend • Algorithms • AI
 
 <td valign="top" width="33%" align="center">
 
-## Deployment
+## DevOps & Workflow
 
 
 
@@ -146,6 +146,11 @@ Backend • Frontend • Algorithms • AI
 • Git 
 • GitHub
 • CI/CD Basics 
+
+• Scrum 
+• Agile Methodologies  
+• Jira 
+• Taiga  
 
 
 </td>
