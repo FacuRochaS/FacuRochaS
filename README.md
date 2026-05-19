@@ -235,10 +235,37 @@ Backend • Frontend • Algorithms • AI
 
 <td width="33%" valign="top" align="center">
 
+##  STUDER
+
+```txt
+Educational Social Media 
+```
+
+Reusable educational blocks with
+versioning, collaboration and
+community-driven content.
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres" />
+</p>
+
+```txt
+System Design • Backend
+• Educational Technology
+```
+
+<a href="https://github.com/FacuRochaS/STUDER">
+  <img src="https://img.shields.io/badge/View_Project-111111?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+
+<td width="33%" valign="top" align="center">
+
 ## T.E.G
 
 ```txt
-Cinema Management System
+online web game
 ```
 
 Backend-oriented web platform for
@@ -260,32 +287,7 @@ REST APIs • SPA
 
 </td>
 
-<td width="33%" valign="top" align="center">
 
-##  Educational Platform
-
-```txt
-Collaborative Learning System
-```
-
-Reusable educational blocks with
-versioning, collaboration and
-community-driven content.
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java,spring,postgres" />
-</p>
-
-```txt
-System Design • Backend
-Educational Technology
-```
-
-<a href="https://github.com/FacuRochaS/Competitive-Programing">
-  <img src="https://img.shields.io/badge/View_Project-111111?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-</td>
 
 <td width="33%" valign="top" align="center">
 
